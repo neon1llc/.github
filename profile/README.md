@@ -39,7 +39,7 @@ We use cloud, software, infrastructure, automation, security, networking, AI, an
 - identify the problems causing the most friction, risk, or wasted effort
 - offer solutions at different levels of scope, complexity, and cost
 - design for security and reliability from the get-go
-- be clear up-front about costs, benefits, tradeoffs, and procedures
+- be clear up front about costs, benefits, tradeoffs, and procedures
 - enable DIY wherever practical
 - build systems as simple as they can reasonably be
 - leave people confident through documentation, training, and clean handoff
