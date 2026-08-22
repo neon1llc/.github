@@ -1,99 +1,60 @@
-# neon1
+<p align="center">
+  <strong>neon1</strong><br>
+  <sub>1withtechnology</sub>
+</p>
 
-### 1withtechnology
+<p align="center">
+  Technology that helps people live and work better.
+</p>
 
-**Technology that helps people live and work better.**
+<p align="center">
+  <a href="https://neon1.tech">Website</a> •
+  <a href="https://github.com/neon1llc">Repositories</a>
+</p>
 
-[neon1.tech](https://neon1.tech/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Practical-2f7d57" />
+  <img src="https://img.shields.io/badge/Automation-Useful-2f7d57" />
+  <img src="https://img.shields.io/badge/Security-Built--in-2f7d57" />
+  <img src="https://img.shields.io/badge/AI-Grounded-2f7d57" />
+  <img src="https://img.shields.io/badge/Open%20Source-Reusable-2f7d57" />
+</p>
 
----
+## What neon1 is
 
-## What is neon1?
+neon1 builds practical technology for small businesses, professionals, individuals, homes, and offices.
 
-**neon1 builds practical technology for small businesses, professionals, individuals, homes, and offices.**
-
-We work across **cloud, software, infrastructure, automation, security, networking, AI, and open source** to solve real problems and make things work better.
-
-That might mean automating work that wastes hours, modernizing an old system, securing a small business, connecting tools that were never designed to work together, or building something new.
+We use cloud, software, infrastructure, automation, security, networking, AI, and open source to solve real problems and make things work better.
 
 **The technology is not the point. The better outcome is.**
 
----
+## What we do
 
-## Our mission
+| Area | What it means |
+|---|---|
+| Cloud & infrastructure | Cloud systems, infrastructure as code, networking, containers, serverless, monitoring, and managed services. |
+| Software & automation | Tools and integrations that remove repetitive work, connect systems, and simplify operations. |
+| Security & reliability | Systems that protect data, control access, recover from failure, and remain understandable to the people running them. |
+| AI | AI where it actually makes the solution better. |
+| Open source | Reusable solutions to problems other people are likely to have too. |
 
-Powerful technology should not require a large engineering team to be useful.
+## How we think
 
-neon1 exists to make modern technology more **accessible, understandable, dependable, and practical** for the people who can benefit from it.
+- build around real problems
+- keep systems as simple as they can reasonably be
+- design for security and reliability from the start
+- avoid unnecessary lock-in
+- document so someone else can operate the system
+- keep people in control of what they depend on
 
-We want technology to mean:
+## What exists here
 
-* more time
-* less friction
-* stronger security
-* greater reliability
-* lower unnecessary costs
-* better visibility and control
-* new capabilities that once felt out of reach
+When we build something that can be useful beyond its original use case, we try to make it reproducible, understandable, and easy to adapt.
 
-**Technology should help people do more without making their lives harder to understand.**
-
----
-
-## What we build
-
-**Cloud & infrastructure**
-Cloud systems, infrastructure as code, networking, containers, serverless platforms, monitoring, and managed services.
-
-**Software & automation**
-Tools and integrations that remove repetitive work, connect systems, reduce mistakes, and simplify everyday operations.
-
-**Security & reliability**
-Systems that protect data, control access, recover from failure, and remain understandable to the people running them.
-
-**AI**
-AI where it actually makes the solution better.
-
-**Open source**
-Reusable solutions to problems other people are likely to have too.
-
----
-
-## How we build
-
-We like systems that are:
-
-* **useful** - built around a real problem
-* **simple** - without complexity that does not earn its place
-* **secure** - by design, not as an afterthought
-* **observable** - so you can tell what is happening
-* **portable** - without unnecessary lock-in
-* **documented** - so someone else can actually operate them
-* **adaptable** - because needs and technology change
-* **under your control** - inspectable, replaceable, and yours
-
-Sometimes the right solution is a small script.
-
-Sometimes it is an entire cloud platform.
-
-**Good engineering is choosing what the problem actually deserves.**
-
----
-
-## What you'll find here
-
-A lot of technology problems are shared.
-
-When we build something that could be useful beyond the problem that started it, we try to make it reproducible and easy for someone else to understand, deploy, change, integrate, and eventually remove if they no longer need it.
-
-The repositories here are where neon1 builds, experiments, documents, and shares those solutions.
-
----
+This organization is where neon1 builds, documents, and shares those solutions.
 
 ## 1withtechnology
 
-neon1 is built around a simple idea: **technology working with people.**
-
-Technology that gives people more capability, control, confidence, and opportunity.
+Technology working with people.
 
 *1 is glad to be of service.*
