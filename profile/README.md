@@ -18,13 +18,13 @@
   <a href="https://github.com/neon1llc">github.com/neon1llc</a>
 </p>
 
-### What neon1 is
+### 🥇 What neon1 is
 
 neon1 builds practical technology for small businesses, professionals, individuals, homes, and offices.
 
 We use cloud, software, infrastructure, automation, security, networking, AI, and open source to solve real problems and make things work better.
 
-### What we do
+### 🎯 What we do
 
 | Area | What it means |
 |---|---|
@@ -34,25 +34,31 @@ We use cloud, software, infrastructure, automation, security, networking, AI, an
 | AI | AI where it actually makes the solution better. |
 | Open source | Reusable solutions to problems other people are likely to have too. |
 
-### How we think
+### 🛠️ How we work
 
+#### Phase 1: Discovery & Planning
 - identify the problems causing the most friction, risk, or wasted effort
 - offer solutions at different levels of scope, complexity, and cost
 - design for security and reliability from the get-go
-- be clear up front about costs, benefits, tradeoffs, and procedures
+- be clear up front about costs, benefits, tradeoffs, and what the work involves
+
+#### Phase 2: Implementation
 - enable DIY wherever practical
 - build systems as simple as they can reasonably be
-- leave people confident through documentation, training, and clean handoff
-- measure risk, reliability, cost, and performance over time
+- test, document, and validate as we go
+- keep the people using the system involved in how it takes shape
 
-### What exists here
+#### Phase 3: Handoff & Improvement
+- leave people confident through documentation, training, and a clean handoff
+- measure risk, reliability, cost, and performance over time
+- improve what is working and reconsider what is not
+
+### 💡 What exists here
 
 When we build something that can be useful beyond its original use case, we try to make it reproducible, understandable, and easy to adapt.
 
 This organization is where neon1 builds, documents, and shares those solutions.
 
-### 1withtechnology
-
-Technology working with people.
+<br>
 
 *1 is glad to be of service.*
