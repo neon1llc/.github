@@ -1,4 +1,4 @@
-### neon1 .github
+# neon1 .github
 
 Organization-wide GitHub configuration and public profile for neon1.
 
