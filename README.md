@@ -1,14 +1,14 @@
-# neon1
+### neon1 .github
 
 Organization-wide GitHub configuration and public profile for [neon1](https://neon1.tech).
 
-## What's here
+#### What's here
 
 - [`profile/README.md`](profile/README.md) -> public GitHub organization profile
 - [`.github/workflows/docs.yml`](.github/workflows/docs.yml) -> documentation and workflow checks
 - [`.markdownlint-cli2.yaml`](.markdownlint-cli2.yaml) -> Markdown linting configuration
 
-## Checks
+#### Checks
 
 Automatically runs static checks when the following change:
 
@@ -22,7 +22,7 @@ Automatically runs static checks when the following change:
 
 Checks run on relevant pushes and pull requests; link validation also runs weekly.
 
-## neon1
+#### neon1
 
 Software, automation, infrastructure, IoT, AI.
 
