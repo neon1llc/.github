@@ -1,4 +1,4 @@
-<h1 align="center">neon1™</h1>
+<h1 align="center">neon1</h1>
 
 <p align="center">
   <strong>1withtechnology</strong><br>

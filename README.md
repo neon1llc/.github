@@ -1,4 +1,4 @@
-# neon1™
+# neon1
 
 Organization-wide GitHub configuration and public profile for [neon1](https://neon1.tech).
 
