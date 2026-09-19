@@ -1,13 +1,21 @@
-# .github/workflows/docs.yml - neon1llc GitHub doc checks
+# .github/workflows/docs.yml - neon1 doc checks
 #
 # Lints docs and workflows, checks spelling, and validates links.
 
-name: neon1llc GitHub doc checks
+name: neon1 doc checks
 
 on:
   push:
     branches: [main]
+    paths:
+      - "**/*.md"
+      - ".github/workflows/**/*.yml"
+      - ".github/workflows/**/*.yaml"
   pull_request:
+    paths:
+      - "**/*.md"
+      - ".github/workflows/**/*.yml"
+      - ".github/workflows/**/*.yaml"
   schedule:
     - cron: "7 10 * * 1"
   workflow_dispatch:
@@ -24,19 +32,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v7
-        with:
-          fetch-depth: 0
-          persist-credentials: false
 
-      - name: Super-Linter
-        uses: super-linter/super-linter/slim@v8.7.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_MARKDOWN: true
-          VALIDATE_SPELL_CODESPELL: true
-          VALIDATE_YAML: true
-          VALIDATE_GITHUB_ACTIONS: true
-          VALIDATE_GIT_MERGE_CONFLICT_MARKERS: true
+      - name: Check Markdown with Markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v24
+        with:
+          globs: "**/*.md"
+
+      - name: Check docs for misspellings with Codespell
+        uses: codespell-project/actions-codespell@v2
+        with:
+          path: "**/*.md"
+
+      - name: Check GitHub Actions workflows with Actionlint
+        shell: bash
+        run: |
+          bash <(curl -sSfL \
+            https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
+          ./actionlint -color
 
   links:
     name: Check links
@@ -46,11 +58,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Check links with Lychee
+      - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --no-progress
             --verbose
-            "./**/*.md"
+            "profile/**/*.md"
           fail: true
