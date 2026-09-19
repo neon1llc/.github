@@ -64,5 +64,5 @@ jobs:
           args: >-
             --no-progress
             --verbose
-            "profile/**/*.md"
+            "**/*.md"
           fail: true
