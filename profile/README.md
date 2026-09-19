@@ -50,7 +50,7 @@ neon1 builds practical technology for businesses, professionals, individuals, ho
 - measure cost, reliability, risk, and performance
 - improve what works and reconsider what does not
 
-### 💡 Open source
+### 💡 What's found here
 
 Useful solutions should not have to be rediscovered from scratch.
 
