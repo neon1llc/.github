@@ -1,16 +1,16 @@
-<h1 align="center">neon1</h1>
+<h1 align="center">neon1™</h1>
 
 <p align="center">
   <strong>1withtechnology</strong><br>
-  Technology that helps people live and work better.<br>
+  Technology that helps people live and work better.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Practical-2F7940" alt="[Cloud|Practical]" />
-  <img src="https://img.shields.io/badge/Automation-Useful-2F7940" alt="[Automation|Useful]" />
-  <img src="https://img.shields.io/badge/Security-Built--in-2F7940" alt="[Security|Built]" />
-  <img src="https://img.shields.io/badge/AI-Grounded-2F7940" alt="[AI|Grounded]" />
-  <img src="https://img.shields.io/badge/Open%20Source-Reusable-2F7940" alt="[Open-Source|Reusable]" />
+  <img src="https://img.shields.io/badge/Software-Practical-2F7940" alt="Software: Practical" />
+  <img src="https://img.shields.io/badge/Automation-Useful-2F7940" alt="Automation: Useful" />
+  <img src="https://img.shields.io/badge/Infrastructure-Reliable-2F7940" alt="Infrastructure: Reliable" />
+  <img src="https://img.shields.io/badge/IoT-Connected-2F7940" alt="IoT: Connected" />
+  <img src="https://img.shields.io/badge/AI-Grounded-2F7940" alt="AI: Grounded" />
 </p>
 
 <p align="center">
@@ -18,50 +18,50 @@
   <a href="https://github.com/neon1llc">github.com/neon1llc</a>
 </p>
 
-### 🥇 What neon1 is
+### 🥇 What neon1 does
 
-neon1 builds practical technology for small businesses, professionals, individuals, homes, and offices.
+neon1 builds practical technology for businesses, professionals, individuals, homes, and offices.
 
-We use cloud, software, infrastructure, automation, security, networking, AI, and open source to solve real problems and make things work better.
-
-### 🎯 What we do
-
-| Area                   | What it means                                                                                                          |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Cloud & infrastructure | Cloud systems, infrastructure as code, networking, containers, serverless, monitoring, and managed services.           |
-| Software & automation  | Tools and integrations that remove repetitive work, connect systems, and simplify operations.                          |
-| Security & reliability | Systems that protect data, control access, recover from failure, and remain understandable to the people running them. |
-| AI                     | AI where it actually makes the solution better.                                                                        |
-| Open source            | Reusable solutions to problems other people are likely to have too.                                                    |
+| Area           | What it means                                                                        |
+| -------------- | ------------------------------------------------------------------------------------ |
+| Software       | Useful applications, tools, integrations, and services.                              |
+| Automation     | Less repetition, fewer manual steps, better workflows.                               |
+| Infrastructure | Cloud, networking, containers, serverless, observability, security, and reliability. |
+| IoT            | Connected devices, environments, monitoring, and automation.                         |
+| AI             | AI where it actually improves the solution.                                          |
 
 ### 🛠️ How we work
 
-#### Phase 1: Discovery & Planning
+#### Discovery & planning
 
-- identify the problems causing the most friction, risk, or wasted effort
-- offer solutions at different levels of scope, complexity, and cost
-- design for security and reliability from the get-go
-- be clear up front about costs, benefits, tradeoffs, and what the work involves
+- find the friction, risk, or wasted effort
+- compare realistic options, costs, and tradeoffs
+- design for simplicity, security, and reliability
 
-#### Phase 2: Implementation
+#### Implementation
 
-- enable DIY wherever practical
-- build systems as simple as they can reasonably be
-- test, document, and validate as we go
-- keep the people using the system involved in how it takes shape
+- enable DIY where practical
+- build only as much complexity as the problem earns
+- test, validate, and document as we go
 
-#### Phase 3: Handoff & Improvement
+#### Handoff & improvement
 
-- leave people confident through documentation, training, and a clean handoff
-- measure risk, reliability, cost, and performance over time
-- improve what is working and reconsider what is not
+- leave people able to understand and operate what was built
+- measure cost, reliability, risk, and performance
+- improve what works and reconsider what does not
 
-### 💡 What exists here
+### 💡 Open source
 
-When we build something that can be useful beyond its original use case, we try to make it reproducible, understandable, and easy to adapt.
+Useful solutions should not have to be rediscovered from scratch.
 
-This organization is where neon1 builds, documents, and shares those solutions.
+When something can help beyond its original use case, we try to make it understandable, reproducible, and adaptable.
 
-<br>
+---
 
-_1 is glad to be of service._
+<p align="center">
+  <em>1 is glad to be of service.</em>
+</p>
+
+<p align="center">
+  <sub>© 2026 neon1 LLC. All rights reserved.</sub>
+</p>
