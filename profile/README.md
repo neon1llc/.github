@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Practical-2F7940" />
-  <img src="https://img.shields.io/badge/Automation-Useful-2F7940" />
-  <img src="https://img.shields.io/badge/Security-Built--in-2F7940" />
-  <img src="https://img.shields.io/badge/AI-Grounded-2F7940" />
-  <img src="https://img.shields.io/badge/Open%20Source-Reusable-2F7940" />
+  <img src="https://img.shields.io/badge/Cloud-Practical-2F7940" alt="[Cloud|Practical]" />
+  <img src="https://img.shields.io/badge/Automation-Useful-2F7940" alt="[Automation|Useful]" />
+  <img src="https://img.shields.io/badge/Security-Built--in-2F7940" alt="[Security|Built]" />
+  <img src="https://img.shields.io/badge/AI-Grounded-2F7940" alt="[AI|Grounded]" />
+  <img src="https://img.shields.io/badge/Open%20Source-Reusable-2F7940" alt="[Open-Source|Reusable]" />
 </p>
 
 <p align="center">
@@ -26,29 +26,32 @@ We use cloud, software, infrastructure, automation, security, networking, AI, an
 
 ### 🎯 What we do
 
-| Area | What it means |
-|---|---|
-| Cloud & infrastructure | Cloud systems, infrastructure as code, networking, containers, serverless, monitoring, and managed services. |
-| Software & automation | Tools and integrations that remove repetitive work, connect systems, and simplify operations. |
+| Area                   | What it means                                                                                                          |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Cloud & infrastructure | Cloud systems, infrastructure as code, networking, containers, serverless, monitoring, and managed services.           |
+| Software & automation  | Tools and integrations that remove repetitive work, connect systems, and simplify operations.                          |
 | Security & reliability | Systems that protect data, control access, recover from failure, and remain understandable to the people running them. |
-| AI | AI where it actually makes the solution better. |
-| Open source | Reusable solutions to problems other people are likely to have too. |
+| AI                     | AI where it actually makes the solution better.                                                                        |
+| Open source            | Reusable solutions to problems other people are likely to have too.                                                    |
 
 ### 🛠️ How we work
 
 #### Phase 1: Discovery & Planning
+
 - identify the problems causing the most friction, risk, or wasted effort
 - offer solutions at different levels of scope, complexity, and cost
 - design for security and reliability from the get-go
 - be clear up front about costs, benefits, tradeoffs, and what the work involves
 
 #### Phase 2: Implementation
+
 - enable DIY wherever practical
 - build systems as simple as they can reasonably be
 - test, document, and validate as we go
 - keep the people using the system involved in how it takes shape
 
 #### Phase 3: Handoff & Improvement
+
 - leave people confident through documentation, training, and a clean handoff
 - measure risk, reliability, cost, and performance over time
 - improve what is working and reconsider what is not
@@ -61,4 +64,4 @@ This organization is where neon1 builds, documents, and shares those solutions.
 
 <br>
 
-*1 is glad to be of service.*
+_1 is glad to be of service._
