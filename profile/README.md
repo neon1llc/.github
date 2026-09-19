@@ -34,7 +34,7 @@ neon1 builds practical technology for businesses, professionals, individuals, ho
 
 ---
 
-### 🛠️ How we work
+### 🛠️ How neon1 works
 
 #### Discovery & planning
 
