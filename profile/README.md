@@ -18,6 +18,8 @@
   <a href="https://github.com/neon1llc">github.com/neon1llc</a>
 </p>
 
+---
+
 ### 🥇 What neon1 does
 
 neon1 builds practical technology for businesses, professionals, individuals, homes, and offices.
@@ -29,6 +31,8 @@ neon1 builds practical technology for businesses, professionals, individuals, ho
 | Infrastructure | Cloud, networking, containers, serverless, observability, security, and reliability. |
 | IoT            | Connected devices, environments, monitoring, and automation.                         |
 | AI             | AI where it actually improves the solution.                                          |
+
+---
 
 ### 🛠️ How we work
 
@@ -49,6 +53,8 @@ neon1 builds practical technology for businesses, professionals, individuals, ho
 - leave people able to understand and operate what was built
 - measure cost, reliability, risk, and performance
 - improve what works and reconsider what does not
+
+---
 
 ### 💡 What's found here
 
