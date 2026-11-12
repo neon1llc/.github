@@ -25,7 +25,7 @@
 
 Help people and small organizations get their technology working together and working for them, explained honestly and at a human level, so they're left more capable, confident, and in control than before.
 
-neon1 is a one-person technology practice. I'm [Pradeep](https://www.linkedin.com/in/pradeep-tathineni/), and I do the work myself, from the first call to the handover.
+neon1 is a technology practice. I'm [Pradeep](https://www.linkedin.com/in/pradeep-tathineni/), and I do the work myself, from the first call to the handover.
 
 | Area                                 | What it looks like                                                                                          |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
