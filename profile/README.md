@@ -15,52 +15,42 @@
 
 <p align="center">
   <a href="https://neon1.tech">neon1.tech</a> •
-  <a href="https://github.com/neon1llc">github.com/neon1llc</a>
+  <a href="https://neon1.tech/knowledge/company/mission/">mission and promise</a> •
+  <a href="https://neon1.tech/knowledge/">Knowledge Center</a>
 </p>
 
 ---
 
-### 🥇 What neon1 does
+### 🥇 Mission
 
-neon1 builds practical technology for businesses, professionals, individuals, homes, and offices.
+Help people and small organizations get their technology working together and working for them, explained honestly and at a human level, so they're left more capable, confident, and in control than before.
 
-| Area           | What it means                                                                        |
-| -------------- | ------------------------------------------------------------------------------------ |
-| Software       | Useful applications, tools, integrations, and services.                              |
-| Automation     | Less repetition, fewer manual steps, better workflows.                               |
-| Infrastructure | Cloud, networking, containers, serverless, observability, security, and reliability. |
-| IoT            | Connected devices, environments, monitoring, and automation.                         |
-| AI             | AI where it actually improves the solution.                                          |
+neon1 is a one-person technology practice. I'm [Pradeep](https://www.linkedin.com/in/pradeep-tathineni/), and I do the work myself, from the first call to the handover.
+
+| Area                                 | What it looks like                                                                                          |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Business workflows                   | Email, spreadsheets, point of sale, booking, and accounting connected, with the repetitive steps automated. |
+| Cloud and AI engineering             | Infrastructure as code, deploys with checks and rollback, AI that answers from your own documents.          |
+| Networks, devices, and spaces        | Wi-Fi, cameras, and smart devices configured, separated, and documented.                                    |
+| Security awareness and readiness     | Plain-language training for teams and families, and SOC 2 readiness before an audit.                        |
+
+AI and the cloud are used where they make the result better, never by default.
 
 ---
 
-### 🛠️ How we work
+### 🛠️ How I work
 
-#### Discovery & planning
-
-- find the friction, risk, or wasted effort
-- compare realistic options, costs, and tradeoffs
-- design for simplicity, security, and reliability
-
-#### Implementation
-
-- enable DIY where practical
-- build only as much complexity as the problem earns
-- test, validate, and document as we go
-
-#### Handoff & improvement
-
-- leave people able to understand and operate what was built
-- measure cost, reliability, risk, and performance
-- improve what works and reconsider what does not
+1. **Listen.** Show me how the work gets done today.
+2. **Propose.** A few options, from the quickest fix to the fuller build, each with its cost and effort.
+3. **Decide.** You pick. Often it's a setting, a cleanup, or leaving it alone.
+4. **Build.** Small changes, tested, and shown as they land.
+5. **Hand over.** Documented, so you can run it without me. Your accounts, data, and docs stay yours.
 
 ---
 
 ### 💡 What's found here
 
-Useful solutions should not have to be rediscovered from scratch.
-
-When something can help beyond its original use case, we try to make it understandable, reproducible, and adaptable.
+The code behind neon1.tech, the 1NEON client portal, Neo the chat, the AWS infrastructure they run on, and the open-source tools I build along the way. Useful solutions shouldn't have to be rediscovered from scratch, so where something can help beyond its first use, I make it understandable, reproducible, and adaptable.
 
 ---
 
