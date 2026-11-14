@@ -34,4 +34,4 @@ Software, automation, infrastructure, IoT, AI.
 
 ---
 
-<sub>© 2026 neon1 LLC. All rights reserved.</sub>
+<sub>© 2026 neon1 LLC. Each repository states its own license.</sub>
