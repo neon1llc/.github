@@ -4,7 +4,7 @@ Organization-wide GitHub configuration and public profile for neon1.
 
 ---
 
-#### Content
+## Content
 
 - [`profile/README.md`](profile/README.md) → public GitHub organization profile
 - [`.github/workflows/docs.yml`](.github/workflows/docs.yml) → documentation and workflow checks
@@ -12,7 +12,7 @@ Organization-wide GitHub configuration and public profile for neon1.
 
 ---
 
-#### Static File Checks
+## Static File Checks
 
 - Markdown — `**/*.md`
   - **Markdownlint** → structure and consistency
@@ -26,7 +26,7 @@ Organization-wide GitHub configuration and public profile for neon1.
 
 ---
 
-#### neon1
+## neon1
 
 Software, automation, infrastructure, IoT, AI.
 
