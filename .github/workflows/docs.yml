@@ -61,8 +61,11 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
+          # LinkedIn answers automated requests with status 999 whatever the
+          # profile is, so that one host is skipped. Every other link is checked.
           args: >-
             --no-progress
             --verbose
+            --exclude "^https://www.linkedin.com/"
             "**/*.md"
           fail: true
