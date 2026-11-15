@@ -1,6 +1,6 @@
 # neon1 .github
 
-Organization-wide GitHub configuration and public profile for neon1.
+Organization-wide GitHub settings and the public profile for neon1.
 
 ---
 
@@ -14,21 +14,14 @@ Organization-wide GitHub configuration and public profile for neon1.
 
 ## Static File Checks
 
-- Markdown — `**/*.md`
-  - **Markdownlint** → structure and consistency
-  - **Codespell** → spelling
-  - **Lychee** → link validation
+- Markdown (`**/*.md`): Markdownlint for structure, Codespell for spelling, Lychee for links.
+- GitHub Actions (`.github/workflows/*.yml|*.yaml`): Actionlint for workflow validation.
 
-- GitHub Actions — `.github/workflows/*.yml|*.yaml`
-  - **Actionlint** → workflow validation
-
-> Checks run on relevant pushes and pull requests; link validation also runs weekly.
+Checks run on relevant pushes and pull requests. Link checks also run weekly.
 
 ---
 
 ## neon1
-
-Software, automation, infrastructure, IoT, AI.
 
 [neon1.tech](https://neon1.tech)
 

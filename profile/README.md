@@ -26,14 +26,14 @@ neon1 is a technology practice. I'm [Pradeep](https://www.linkedin.com/in/pradee
 | Networks, devices, and spaces        | Wi-Fi, cameras, and smart devices configured, separated, and documented.                                    |
 | Security awareness and readiness     | Plain-language training for teams and families, and SOC 2 readiness before an audit.                        |
 
-AI and the cloud are used when they fit the need, not by default.
+I use AI and the cloud only when they fit the need.
 
 ---
 
 ### 🛠️ How I work
 
 1. **Listen.** Show me how the work gets done today.
-2. **Propose.** A few options, from the quickest fix to the fuller build, each with its cost and effort.
+2. **Propose.** A few options, from the quickest fix to the fuller build, each with cost and effort.
 3. **Decide.** You pick. Often it's a setting, a cleanup, or leaving it alone.
 4. **Build.** Small changes, tested, and shown as they land.
 5. **Hand over.** Documented, so you can run it without me. Your accounts, data, and docs stay yours.
@@ -42,7 +42,7 @@ AI and the cloud are used when they fit the need, not by default.
 
 ### 💡 Public code and resources
 
-The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS infrastructure they run on, plus tools and training material I build along the way. Each repository states its own license in its `LICENSE` files. Code that runs neon1.tech, Neo, and the AWS infrastructure uses the Functional Source License 1.1 (converting to Apache 2.0), and its written content uses CC BY-ND 4.0.
+The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS infrastructure they run on, plus tools and training material I build along the way. Each repository states its license in its `LICENSE` files. Code that runs neon1.tech, Neo, and the infrastructure uses the Functional Source License 1.1 (converting to Apache 2.0). Its written content uses CC BY-ND 4.0.
 
 | Repository | What it is | License |
 | ---------- | ---------- | ------- |
