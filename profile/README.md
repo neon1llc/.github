@@ -42,7 +42,7 @@ I use AI and the cloud only when they fit the need.
 
 ### 💡 Public code and resources
 
-The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS infrastructure they run on, plus tools and training material I build along the way. Each repository states its license in its `LICENSE` files. Code that runs neon1.tech, Neo, and the infrastructure uses the Functional Source License 1.1 (converting to Apache 2.0). Its written content uses CC BY-ND 4.0.
+The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS infrastructure they run on, plus tools and training material I build along the way. Code that runs neon1.tech, Neo, and the infrastructure uses the Functional Source License 1.1 (converting to Apache 2.0). Its written content uses CC BY-ND 4.0. Each repository's `LICENSE` files govern it.
 
 | Repository | What it is | License |
 | ---------- | ---------- | ------- |

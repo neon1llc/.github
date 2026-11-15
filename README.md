@@ -1,6 +1,6 @@
 # neon1 .github
 
-Organization-wide GitHub settings and the public profile for neon1.
+Organization-wide GitHub settings and public profile.
 
 ---
 
