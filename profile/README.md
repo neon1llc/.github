@@ -42,7 +42,7 @@ Work runs from a focused assessment to a complete implementation. I use AI and t
 
 ### 💡 Public code and resources
 
-The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS infrastructure they run on is public, with the tools and training material I build along the way. Code that runs neon1.tech, Neo, and the infrastructure uses the Functional Source License 1.1 (converting to Apache 2.0). Its written content uses CC BY-ND 4.0. Each repository's `LICENSE` files govern it.
+The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS infrastructure they run on is public, with the tools and training material I build along the way. Code that runs neon1.tech, Neo, and the infrastructure is source-available, not open source: it uses the Functional Source License 1.1, which converts to Apache 2.0 after two years. Its written content uses CC BY-ND 4.0. The 1NEON portal code is MIT. Each repository's `LICENSE` files govern it.
 
 **Tools.** Early, version 0.x. Each README says what has been tested and what hasn't.
 
