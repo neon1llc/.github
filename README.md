@@ -7,6 +7,7 @@ Organization-wide GitHub settings and public profile.
 ## Content
 
 - [`profile/README.md`](profile/README.md) → public GitHub organization profile
+- [`SECURITY.md`](SECURITY.md) and [`SUPPORT.md`](SUPPORT.md) → default security-reporting and support policies for repositories that don't have their own
 - [`.github/workflows/docs.yml`](.github/workflows/docs.yml) → documentation and workflow checks
 - [`.markdownlint-cli2.yaml`](.markdownlint-cli2.yaml) → Markdown linting configuration
 
