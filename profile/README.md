@@ -21,9 +21,9 @@ neon1 is my independent engineering and technology consulting practice. I'm [Pra
 
 | Service                          | What it looks like                                                                                                         |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Workflow automation              | Email, spreadsheets, point of sale, booking, and accounting connected, with the repetitive steps automated.                 |
-| Cloud and AI engineering         | Infrastructure as code, deploys with checks and rollback, AI that answers from your own documents.                          |
-| Networks and connected systems   | Wi-Fi, cameras, and smart devices configured, separated, and documented.                                                    |
+| Workflow automation              | Systems integrated through APIs, events, and data sync, the operations that cross them automated, and missing software built. |
+| Cloud and AI engineering         | Architecture and cost reviews, infrastructure as code, migrations with rollback, and AI that is evaluated and permissioned.  |
+| Networks and connected systems   | Segmented, monitored networks across sites, connected devices integrated, and secure remote access.                         |
 | Security readiness               | Technical assessment, control implementation, and evidence preparation before an audit. I don't issue audit opinions.       |
 
 Work runs from a focused assessment to a complete implementation. I use AI and the cloud only when they fit the need.
@@ -33,9 +33,9 @@ Work runs from a focused assessment to a complete implementation. I use AI and t
 ### 🛠️ How I work
 
 1. **Listen.** Show me how the work gets done today.
-2. **Propose.** A few options, from the quickest fix to the fuller build, each with cost and effort.
-3. **Decide.** You pick. Often it's a setting, a cleanup, or leaving it alone.
-4. **Build.** Small changes, tested, and shown as they land.
+2. **Propose.** One recommendation, or options when there's a real choice, each with scope, acceptance criteria, and cost to build and run.
+3. **Decide.** You approve the scope and price. Sometimes the answer is a setting, an existing product, or leaving things as they are.
+4. **Build.** Reviewable changes, tested against the acceptance criteria, including failure and rollback.
 5. **Hand over.** Documented, so you can run it without me. Your accounts, data, and docs stay yours.
 
 ---
