@@ -1,8 +1,7 @@
 <h1 align="center">neon1</h1>
 
 <p align="center">
-  <strong>1withtechnology</strong><br>
-  Independent engineering and technology consulting for businesses, technical teams, and individuals.
+  Independent engineering and technology consulting.
 </p>
 
 <p align="center">
@@ -13,38 +12,28 @@
 
 ---
 
-### 🥇 Mission
+I'm [Pradeep](https://www.linkedin.com/in/pradeep-tathineni/). neon1 is my practice, and I do the work myself, from the first call to the handover.
 
-Design, build, and improve technology that does a defined job well, and leave the people who own it fully in control of it.
+| Service                        | What I do                                                                                                  |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Workflow automation            | Integrate systems, automate what crosses them, and build missing software.                                 |
+| Cloud and AI engineering       | Architecture and cost reviews, infrastructure as code, migrations with rollback, and evaluated, permissioned AI. |
+| Networks and connected systems | Segmented, monitored networks across sites, connected devices, and secure remote access.                   |
+| Security readiness             | Assessment, controls, and evidence before an audit. I don't issue audit opinions.                          |
 
-neon1 is my independent engineering and technology consulting practice. I'm [Pradeep](https://www.linkedin.com/in/pradeep-tathineni/), and I do the work myself, from the first call to the handover.
-
-| Service                          | What it looks like                                                                                                         |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Workflow automation              | Systems integrated through APIs, events, and data sync, the operations that cross them automated, and missing software built. |
-| Cloud and AI engineering         | Architecture and cost reviews, infrastructure as code, migrations with rollback, and AI that is evaluated and permissioned.  |
-| Networks and connected systems   | Segmented, monitored networks across sites, connected devices integrated, and secure remote access.                         |
-| Security readiness               | Technical assessment, control implementation, and evidence preparation before an audit. I don't issue audit opinions.       |
-
-Work runs from a focused assessment to a complete implementation. I use AI and the cloud only when they fit the need.
-
----
-
-### 🛠️ How I work
+### How I work
 
 1. **Listen.** Show me how the work gets done today.
 2. **Propose.** One recommendation, or options when there's a real choice, each with scope, acceptance criteria, and cost to build and run.
-3. **Decide.** You approve the scope and price. Sometimes the answer is a setting, an existing product, or leaving things as they are.
+3. **Decide.** You approve scope and price. Sometimes the answer is a setting, an existing product, or leaving things as they are.
 4. **Build.** Reviewable changes, tested against the acceptance criteria, including failure and rollback.
-5. **Hand over.** Documented, so you can run it without me. Your accounts, data, and docs stay yours.
+5. **Hand over.** Documented so you can run it without me. Your accounts, data, and docs stay yours.
 
----
+### Public code and resources
 
-### 💡 Public code and resources
+The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS infrastructure they run on is public, along with tools and training material I build. The neon1.tech, Neo, and infrastructure code is source-available, not open source: Functional Source License 1.1, converting to Apache 2.0 after two years. Its written content is CC BY-ND 4.0. The 1NEON portal code is MIT. Each repository's `LICENSE` files govern it.
 
-The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS infrastructure they run on is public, with the tools and training material I build along the way. Code that runs neon1.tech, Neo, and the infrastructure is source-available, not open source: it uses the Functional Source License 1.1, which converts to Apache 2.0 after two years. Its written content uses CC BY-ND 4.0. The 1NEON portal code is MIT. Each repository's `LICENSE` files govern it.
-
-**Tools.** Early, version 0.x. Each README says what has been tested and what hasn't.
+**Tools.** Version 0.x. Each README says what has been tested.
 
 | Repository | What it is | Status | License |
 | ---------- | ---------- | ------ | ------- |
@@ -52,7 +41,7 @@ The code behind neon1.tech, the 1NEON client portal, Neo the chat, and the AWS i
 | [aws-clip](https://github.com/neon1llc/aws-clip) | AWS CLI Plus: a confirmation prompt and account check in front of AWS CLI. Not access control. | Early, tested against a fake AWS CLI | MIT |
 | [deploy-ops](https://github.com/neon1llc/deploy-ops) | DeployOps: exact-approval delivery of infrastructure and applications from separate repositories. | Local developer preview, not production-supported | Apache 2.0 |
 
-**Training and reference material.** Education only. It isn't legal advice, an audit, or a certification.
+**Training and reference material.** Education only, not legal advice, an audit, or a certification.
 
 | Repository | What it is | License |
 | ---------- | ---------- | ------- |
