@@ -58,7 +58,7 @@ Independent projects and open guides, public here and separate from client work.
 
 #### Tools
 
-- **[AWS CLIP](https://github.com/neon1llc/aws-clip).** Account checks and approval prompts around the AWS CLI. A safety prompt, not access control. MIT.
+- **[AWS CLIP](https://github.com/neon1llc/aws-clip).** AWS CLI Plus: account checks and approval prompts around the AWS CLI. A safety prompt, not access control. MIT.
 - **[DeployOps](https://github.com/neon1llc/deploy-ops).** A local developer preview of deploys with checks, approvals, and rollback. Apache-2.0.
 - **[refmark](https://github.com/neon1llc/refmark).** Flags changed sources your documents cite, for review. MIT.
 
