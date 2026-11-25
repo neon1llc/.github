@@ -58,32 +58,26 @@ Independent projects and open guides, public here and separate from client work.
 
 #### Tools
 
-| Project | What it is | License |
-| ---------- | ---------- | ------- |
-| [AWS CLIP](https://github.com/neon1llc/aws-clip) | Account checks and approval prompts around the AWS CLI. A safety prompt, not access control. | MIT |
-| [DeployOps](https://github.com/neon1llc/deploy-ops) | A local developer preview of deploys with checks, approvals, and rollback. | Apache-2.0 |
-| [refmark](https://github.com/neon1llc/refmark) | Flags changed sources your documents cite, for review. | MIT |
+- **[AWS CLIP](https://github.com/neon1llc/aws-clip).** Account checks and approval prompts around the AWS CLI. A safety prompt, not access control. MIT.
+- **[DeployOps](https://github.com/neon1llc/deploy-ops).** A local developer preview of deploys with checks, approvals, and rollback. Apache-2.0.
+- **[refmark](https://github.com/neon1llc/refmark).** Flags changed sources your documents cite, for review. MIT.
 
 #### Security guides
 
-| Project | What it is | License |
-| ---------- | ---------- | ------- |
-| [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go) | Security steps for each kind of space, from a home network to an office preparing for SOC 2. | CC BY-SA 4.0 text, MIT code |
-| [SOC 2 readiness, step by step](https://github.com/neon1llc/soc-2-readiness) | A control map, evidence checklists, and what to fix before an audit. | CC BY-SA 4.0 text, MIT code |
-| [Incident response for small teams](https://github.com/neon1llc/incident-response-for-small-teams) | A runbook, playbooks, tabletop exercises, and templates. | CC BY-SA 4.0 text, MIT code |
-| [Compliance basics](https://github.com/neon1llc/compliance-basics) | Short explanations of HIPAA, PCI DSS, privacy, accessibility, and more. | CC BY-SA 4.0 text, MIT code |
-| [Phishing awareness session kit](https://github.com/neon1llc/phishing-awareness-kit) | Slides, exercises, and a one-page takeaway for an hour on scams and safer accounts. | CC BY-SA 4.0 text, MIT code |
-| [Household tech handbook](https://github.com/neon1llc/household-tech-handbook) | Passwords, backups, the router, kids' devices, and helping aging parents. | CC BY-SA 4.0 text, MIT code |
+- **[Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go).** Security steps for each kind of space, from a home network to an office preparing for SOC 2. CC BY-SA 4.0 text, MIT code.
+- **[SOC 2 readiness, step by step](https://github.com/neon1llc/soc-2-readiness).** A control map, evidence checklists, and what to fix before an audit. CC BY-SA 4.0 text, MIT code.
+- **[Incident response for small teams](https://github.com/neon1llc/incident-response-for-small-teams).** A runbook, playbooks, tabletop exercises, and templates. CC BY-SA 4.0 text, MIT code.
+- **[Compliance basics](https://github.com/neon1llc/compliance-basics).** Short explanations of HIPAA, PCI DSS, privacy, accessibility, and more. CC BY-SA 4.0 text, MIT code.
+- **[Phishing awareness session kit](https://github.com/neon1llc/phishing-awareness-kit).** Slides, exercises, and a one-page takeaway for an hour on scams and safer accounts. CC BY-SA 4.0 text, MIT code.
+- **[Household tech handbook](https://github.com/neon1llc/household-tech-handbook).** Passwords, backups, the router, kids' devices, and helping aging parents. CC BY-SA 4.0 text, MIT code.
 
 #### This site
 
-| Project | What it is | License |
-| ---------- | ---------- | ------- |
-| [neon1-corpus](https://github.com/neon1llc/neon1-corpus) | neon1's public writing, in Markdown, shared by the site, 1NEON, and Neo. | CC BY-ND 4.0 text, FSL-1.1 tools |
-| [neon1-site](https://github.com/neon1llc/neon1-site) | The neon1.tech website, its Knowledge Center, and its blog. | FSL-1.1 code, CC BY-ND 4.0 text |
-| [neon1-1NEON](https://github.com/neon1llc/neon1-1NEON) | 1NEON, the client portal. | MIT |
-| [neon1-chat](https://github.com/neon1llc/neon1-chat) | Neo, the site's assistant, answering from neon1's public pages. | FSL-1.1 code, CC BY-ND 4.0 text |
-| [neon1-aws-infrastructure](https://github.com/neon1llc/neon1-aws-infrastructure) | Terraform for neon1.tech on AWS. | FSL-1.1 code, CC BY-ND 4.0 text |
+- **[neon1-corpus](https://github.com/neon1llc/neon1-corpus).** neon1's public writing, in Markdown, shared by the site, 1NEON, and Neo. CC BY-ND 4.0 text, FSL-1.1 tools.
+- **[neon1-site](https://github.com/neon1llc/neon1-site).** The neon1.tech website, its Knowledge Center, and its blog. FSL-1.1 code, CC BY-ND 4.0 text.
+- **[neon1-1NEON](https://github.com/neon1llc/neon1-1NEON).** 1NEON, the client portal. MIT.
+- **[neon1-chat](https://github.com/neon1llc/neon1-chat).** Neo, the site's assistant, answering from neon1's public pages. FSL-1.1 code, CC BY-ND 4.0 text.
+- **[neon1-aws-infrastructure](https://github.com/neon1llc/neon1-aws-infrastructure).** Terraform for neon1.tech on AWS. FSL-1.1 code, CC BY-ND 4.0 text.
 
 ---
 
