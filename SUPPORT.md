@@ -1,6 +1,6 @@
 # Support
 
-I maintain neon1's public repositories myself.
+I maintain neon1's public repositories.
 
 - **A bug or wrong result:** open an issue with what you ran, what you expected, and what happened.
 - **A question about a tool:** read the repository's README first, then open an issue.
