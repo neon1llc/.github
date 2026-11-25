@@ -28,13 +28,11 @@ When a project needs a licensed installer, an independent auditor, or a penetrat
 
 ### Client work
 
-| Project | Engagement | Result |
-| ------- | ---------- | ------ |
-| [Permission-aware document assistant](https://neon1.tech/knowledge/case-studies/answers-in-seconds/) for an accounting firm | Subcontract with an AWS Select Partner | Median lookup from about 5 minutes to 14 seconds, and recall from 72% to 94%, on an 80-question test set |
-| [Patient intake portal](https://neon1.tech/knowledge/case-studies/intake-out-of-the-inbox/) for a dermatology practice | Subcontract with an AWS Select Partner | Median intake from 2.6 days to 3.4 hours, and staff time from 24 to 8 minutes each |
-| [Two-site server migration](https://neon1.tech/knowledge/case-studies/two-offices-off-local-servers/) for an automotive business | neon1, with the client's technical lead | Both locations moved with no application rewrite, records reconciled, and restore tested |
-| [Operations integration and monitoring](https://neon1.tech/knowledge/case-studies/one-view-of-the-shop/) for a small local business | neon1 | The owner acts on problems from anywhere, not only on site |
-| [Security awareness sessions](https://neon1.tech/knowledge/case-studies/security-for-non-security-people/) for schools, families, and teams | neon1 | Informational sessions, with accounts and devices secured during the session |
+- **[Permission-aware document assistant](https://neon1.tech/knowledge/case-studies/answers-in-seconds/) for an accounting firm.** Subcontract with an AWS Select Partner. Median lookup from about 5 minutes to 14 seconds, and recall from 72% to 94%, on an 80-question test set.
+- **[Patient intake portal](https://neon1.tech/knowledge/case-studies/intake-out-of-the-inbox/) for a dermatology practice.** Subcontract with an AWS Select Partner. Median intake from 2.6 days to 3.4 hours, and staff time from 24 to 8 minutes each.
+- **[Two-site server migration](https://neon1.tech/knowledge/case-studies/two-offices-off-local-servers/) for an automotive business.** A neon1 engagement with the client's technical lead. Both locations moved with no application rewrite, records reconciled, and restore tested.
+- **[Operations integration and monitoring](https://neon1.tech/knowledge/case-studies/one-view-of-the-shop/) for a small local business.** A neon1 engagement. The owner acts on problems from anywhere, not only on site.
+- **[Security awareness sessions](https://neon1.tech/knowledge/case-studies/security-for-non-security-people/) for schools, families, and teams.** A neon1 engagement. Informational sessions, with accounts and devices secured during the session.
 
 ### How a project runs
 
