@@ -1,0 +1,69 @@
+# .github/workflows/quality.yml - Shared action, workflow, and secret checks.
+
+name: shared quality checks
+
+on:
+  workflow_call:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    name: Check pinned actions, workflows, and secrets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the caller repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Require immutable action references
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+
+          failures = []
+          for path in sorted(Path(".github/workflows").glob("**/*")):
+              if path.suffix not in {".yml", ".yaml"}:
+                  continue
+              for number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+                  stripped = line.strip()
+                  if not stripped.startswith("uses:"):
+                      continue
+                  target = stripped.removeprefix("uses:").split("#", 1)[0].strip().strip("\"'")
+                  if target.startswith(("./", "docker://")):
+                      continue
+                  if not re.fullmatch(r"[^@\s]+@[0-9a-f]{40}", target):
+                      failures.append(f"{path}:{number}: {target}")
+
+          if failures:
+              print("Use a full 40-character commit SHA for each action or reusable workflow:")
+              print("\n".join(failures))
+              sys.exit(1)
+          print("Every external action and reusable workflow uses a full commit SHA.")
+          PY
+
+      - name: Check workflow syntax and expressions with actionlint
+        shell: bash
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/actionlint.tar.gz"
+          curl --fail --silent --show-error --location \
+            https://github.com/rhysd/actionlint/releases/download/v1.7.12/actionlint_1.7.12_linux_amd64.tar.gz \
+            --output "$archive"
+          echo '8aca8db96f1b94770f1b0d72b6dddcb1ebb8123cb3712530b08cc387b349a3d8  '"$archive" | sha256sum --check --status
+          mkdir "$RUNNER_TEMP/actionlint"
+          tar -xzf "$archive" -C "$RUNNER_TEMP/actionlint" actionlint
+          "$RUNNER_TEMP/actionlint/actionlint" -color
+
+      - name: Scan repository history with gitleaks
+        shell: bash
+        run: |
+          docker run --rm -v "$PWD:/repo" -w /repo \
+            ghcr.io/gitleaks/gitleaks:v8.30.1@sha256:c00b6bd0aeb3071cbcb79009cb16a60dd9e0a7c60e2be9ab65d25e6bc8abbb7f \
+            git --redact --no-banner /repo
