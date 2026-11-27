@@ -48,7 +48,7 @@ AI helps me research, polish, review, and build faster. I decide, approve every 
 
 ### Contact
 
-Tell me what you're working on, or ask for an opinion on a design, system, or decision. [Email](mailto:hello@neon1.tech), call or text [(424) 32-NEON1](tel:+14243263661), or [book a 30-minute call](https://calendly.com/1isgladtobeofservice/neon1-consultation). To write first, outline up to three projects in a free [1NEON account](https://neon1.tech/knowledge/guides/free-accounts/). In 1NEON, you manage and oversee each project through needs, execution, observation, and next steps. [See a walkthrough](https://neon1.tech/1NEON/live) with fictional data.
+Tell me what you're working on, or ask for an opinion on a design, system, or decision. [Email](mailto:hello@neon1.tech), call or text [(424) 32-NEON1](tel:+14243263661), or [book a 30-minute call](https://calendly.com/book-neon1/initial). To write first, outline up to three projects in a free [1NEON account](https://neon1.tech/knowledge/guides/free-accounts/). In 1NEON, you manage and oversee each project through needs, execution, observation, and next steps. [See a walkthrough](https://neon1.tech/1NEON/live) with fictional data.
 
 Remote across the US, or on site within about 30 miles of Queens, NY.
 

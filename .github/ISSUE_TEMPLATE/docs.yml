@@ -1,0 +1,28 @@
+name: Documentation fix
+description: Report unclear, incorrect, or missing documentation.
+title: "[Docs]: "
+body:
+  - type: markdown
+    attributes:
+      value: Don't include private links, credentials, or customer data.
+  - type: input
+    id: location
+    attributes:
+      label: Page or file
+      description: Link to the page or name the file and section.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs attention?
+      description: Explain what is unclear or incorrect.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction
+      description: Add replacement wording or a source when useful.
+    validations:
+      required: false

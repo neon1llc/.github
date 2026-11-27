@@ -31,24 +31,17 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Check Markdown with Markdownlint
-        uses: DavidAnson/markdownlint-cli2-action@v24
+        uses: DavidAnson/markdownlint-cli2-action@4580e1612f6407034edd6c0e4e316d725920867b # v24.2.0
         with:
           globs: "**/*.md"
 
       - name: Check docs for misspellings with Codespell
-        uses: codespell-project/actions-codespell@v2
+        uses: codespell-project/actions-codespell@e3258cca84ce02b0bb36a3d41f2c18f719a0cc1a # v2.4.3
         with:
           path: "**/*.md"
-
-      - name: Check GitHub Actions workflows with Actionlint
-        shell: bash
-        run: |
-          bash <(curl -sSfL \
-            https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
-          ./actionlint -color
 
   links:
     name: Check links
@@ -56,10 +49,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Check links
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
           # LinkedIn answers automated requests with status 999 whatever the
           # profile is, so that one host is skipped. Every other link is checked.
@@ -69,3 +62,7 @@ jobs:
             --exclude "^https://www.linkedin.com/"
             "**/*.md"
           fail: true
+
+  quality:
+    name: Shared workflow quality
+    uses: ./.github/workflows/quality.yml

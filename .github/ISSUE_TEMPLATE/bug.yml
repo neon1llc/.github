@@ -1,0 +1,41 @@
+name: Bug report
+description: Report a reproducible problem in a neon1 repository.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: Share only public, non-sensitive details. Remove tokens, private links, and customer data.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      description: Name the neon1 repository.
+      placeholder: neon1-site
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the command or steps that reproduce it.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      description: Include it if you know it.
+    validations:
+      required: false
